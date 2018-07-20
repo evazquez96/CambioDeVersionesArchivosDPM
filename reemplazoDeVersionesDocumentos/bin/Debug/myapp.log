@@ -1,0 +1,153 @@
+2018-06-01 16:48:41,308 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: desktop.ini no se encuentra 
+2018-06-01 16:48:41,554 [1] INFO reemplazoDeVersionesDocumentos.Program - 
+El archivo: C:\Users\Eduardo\Documents\FeedEntryEditor.js se duplica en : 
+2018-06-01 16:48:41,554 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\c\b\FeedEntryEditor.js
+2018-06-01 16:48:41,555 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\FeedEntryEditor.js
+2018-06-01 16:48:41,555 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\FeedEntryEditor.js
+2018-06-01 16:48:41,574 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ar\FeedEntryEditor.js
+2018-06-01 16:48:41,574 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\az\FeedEntryEditor.js
+2018-06-01 16:48:41,575 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\bg\FeedEntryEditor.js
+2018-06-01 16:48:41,575 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\bs\FeedEntryEditor.js
+2018-06-01 16:48:41,575 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ca\FeedEntryEditor.js
+2018-06-01 16:48:41,575 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\cs\FeedEntryEditor.js
+2018-06-01 16:48:41,575 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\da\FeedEntryEditor.js
+2018-06-01 16:48:41,576 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\de\FeedEntryEditor.js
+2018-06-01 16:48:41,576 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\el\FeedEntryEditor.js
+2018-06-01 16:48:41,576 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\es\FeedEntryEditor.js
+2018-06-01 16:48:41,576 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\eu\FeedEntryEditor.js
+2018-06-01 16:48:41,577 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\fi\FeedEntryEditor.js
+2018-06-01 16:48:41,577 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\fr\FeedEntryEditor.js
+2018-06-01 16:48:41,578 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\he\FeedEntryEditor.js
+2018-06-01 16:48:41,578 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\hr\FeedEntryEditor.js
+2018-06-01 16:48:41,579 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\hu\FeedEntryEditor.js
+2018-06-01 16:48:41,579 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\id\FeedEntryEditor.js
+2018-06-01 16:48:41,579 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\it\FeedEntryEditor.js
+2018-06-01 16:48:41,580 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ja\FeedEntryEditor.js
+2018-06-01 16:48:41,580 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\kk\FeedEntryEditor.js
+2018-06-01 16:48:41,581 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ko\FeedEntryEditor.js
+2018-06-01 16:48:41,582 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\mk\FeedEntryEditor.js
+2018-06-01 16:48:41,583 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\nb\FeedEntryEditor.js
+2018-06-01 16:48:41,587 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\nl\FeedEntryEditor.js
+2018-06-01 16:48:41,587 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\pl\FeedEntryEditor.js
+2018-06-01 16:48:41,588 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\pt\FeedEntryEditor.js
+2018-06-01 16:48:41,588 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\pt-pt\FeedEntryEditor.js
+2018-06-01 16:48:41,589 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ro\FeedEntryEditor.js
+2018-06-01 16:48:41,589 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ru\FeedEntryEditor.js
+2018-06-01 16:48:41,590 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sk\FeedEntryEditor.js
+2018-06-01 16:48:41,590 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sl\FeedEntryEditor.js
+2018-06-01 16:48:41,591 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sr\FeedEntryEditor.js
+2018-06-01 16:48:41,591 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sv\FeedEntryEditor.js
+2018-06-01 16:48:41,592 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\th\FeedEntryEditor.js
+2018-06-01 16:48:41,592 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\tr\FeedEntryEditor.js
+2018-06-01 16:48:41,592 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\uk\FeedEntryEditor.js
+2018-06-01 16:48:41,593 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\zh\FeedEntryEditor.js
+2018-06-01 16:48:41,593 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\zh-tw\FeedEntryEditor.js
+2018-06-01 16:48:41,852 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: Manual de Integracion WebServices Version 5.pdf no se encuentra 
+2018-06-01 16:48:42,121 [1] INFO reemplazoDeVersionesDocumentos.Program - 
+El archivo: C:\Users\Eduardo\Documents\Page1.html se duplica en : 
+2018-06-01 16:48:42,121 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\aaa\b\Page1.html
+2018-06-01 16:48:42,122 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\webPages\Page1.html
+2018-06-02 11:37:48,595 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: Default.rdp no se encuentra 
+2018-06-02 11:37:49,655 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: desktop.ini no se encuentra 
+2018-06-02 11:37:50,040 [1] INFO reemplazoDeVersionesDocumentos.Program - 
+El archivo: C:\Users\Eduardo\Documents\FeedEntryEditor.js se duplica en : 
+2018-06-02 11:37:50,040 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\c\b\FeedEntryEditor.js
+2018-06-02 11:37:50,040 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\FeedEntryEditor.js
+2018-06-02 11:37:50,040 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\FeedEntryEditor.js
+2018-06-02 11:37:50,040 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ar\FeedEntryEditor.js
+2018-06-02 11:37:50,040 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\az\FeedEntryEditor.js
+2018-06-02 11:37:50,041 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\bg\FeedEntryEditor.js
+2018-06-02 11:37:50,041 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\bs\FeedEntryEditor.js
+2018-06-02 11:37:50,042 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ca\FeedEntryEditor.js
+2018-06-02 11:37:50,042 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\cs\FeedEntryEditor.js
+2018-06-02 11:37:50,043 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\da\FeedEntryEditor.js
+2018-06-02 11:37:50,043 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\de\FeedEntryEditor.js
+2018-06-02 11:37:50,043 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\el\FeedEntryEditor.js
+2018-06-02 11:37:50,043 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\es\FeedEntryEditor.js
+2018-06-02 11:37:50,043 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\eu\FeedEntryEditor.js
+2018-06-02 11:37:50,043 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\fi\FeedEntryEditor.js
+2018-06-02 11:37:50,044 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\fr\FeedEntryEditor.js
+2018-06-02 11:37:50,044 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\he\FeedEntryEditor.js
+2018-06-02 11:37:50,045 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\hr\FeedEntryEditor.js
+2018-06-02 11:37:50,045 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\hu\FeedEntryEditor.js
+2018-06-02 11:37:50,046 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\id\FeedEntryEditor.js
+2018-06-02 11:37:50,046 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\it\FeedEntryEditor.js
+2018-06-02 11:37:50,047 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ja\FeedEntryEditor.js
+2018-06-02 11:37:50,047 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\kk\FeedEntryEditor.js
+2018-06-02 11:37:50,048 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ko\FeedEntryEditor.js
+2018-06-02 11:37:50,048 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\mk\FeedEntryEditor.js
+2018-06-02 11:37:50,048 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\nb\FeedEntryEditor.js
+2018-06-02 11:37:50,049 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\nl\FeedEntryEditor.js
+2018-06-02 11:37:50,051 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\pl\FeedEntryEditor.js
+2018-06-02 11:37:50,052 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\pt\FeedEntryEditor.js
+2018-06-02 11:37:50,053 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\pt-pt\FeedEntryEditor.js
+2018-06-02 11:37:50,053 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ro\FeedEntryEditor.js
+2018-06-02 11:37:50,054 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ru\FeedEntryEditor.js
+2018-06-02 11:37:50,054 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sk\FeedEntryEditor.js
+2018-06-02 11:37:50,055 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sl\FeedEntryEditor.js
+2018-06-02 11:37:50,055 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sr\FeedEntryEditor.js
+2018-06-02 11:37:50,055 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sv\FeedEntryEditor.js
+2018-06-02 11:37:50,056 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\th\FeedEntryEditor.js
+2018-06-02 11:37:50,056 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\tr\FeedEntryEditor.js
+2018-06-02 11:37:50,056 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\uk\FeedEntryEditor.js
+2018-06-02 11:37:50,057 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\zh\FeedEntryEditor.js
+2018-06-02 11:37:50,057 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\zh-tw\FeedEntryEditor.js
+2018-06-02 11:37:50,433 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: Google.Apis.Auth.OAuth2.Responses.TokenResponse-evazez@logsys.com.mx no se encuentra 
+2018-06-02 11:37:50,830 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: Google.Apis.Auth.OAuth2.Responses.TokenResponse-evazquez@logsys.com.mx no se encuentra 
+2018-06-02 11:37:51,265 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: Manual de Integracion WebServices Version 5.pdf no se encuentra 
+2018-06-02 11:37:51,634 [1] INFO reemplazoDeVersionesDocumentos.Program - 
+El archivo: C:\Users\Eduardo\Documents\Page1.html se duplica en : 
+2018-06-02 11:37:51,635 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\aaa\b\Page1.html
+2018-06-02 11:37:51,636 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\webPages\Page1.html
+2018-06-02 11:40:03,704 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: Default.rdp no se encuentra 
+2018-06-02 11:40:04,711 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: desktop.ini no se encuentra 
+2018-06-02 11:40:05,140 [1] INFO reemplazoDeVersionesDocumentos.Program - 
+El archivo: C:\Users\Eduardo\Documents\FeedEntryEditor.js se duplica en : 
+2018-06-02 11:40:05,140 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\c\b\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ar\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\az\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\bg\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\bs\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ca\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\cs\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\da\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\de\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\el\FeedEntryEditor.js
+2018-06-02 11:40:05,141 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\es\FeedEntryEditor.js
+2018-06-02 11:40:05,142 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\eu\FeedEntryEditor.js
+2018-06-02 11:40:05,142 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\fi\FeedEntryEditor.js
+2018-06-02 11:40:05,142 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\fr\FeedEntryEditor.js
+2018-06-02 11:40:05,143 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\he\FeedEntryEditor.js
+2018-06-02 11:40:05,143 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\hr\FeedEntryEditor.js
+2018-06-02 11:40:05,143 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\hu\FeedEntryEditor.js
+2018-06-02 11:40:05,145 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\id\FeedEntryEditor.js
+2018-06-02 11:40:05,145 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\it\FeedEntryEditor.js
+2018-06-02 11:40:05,146 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ja\FeedEntryEditor.js
+2018-06-02 11:40:05,146 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\kk\FeedEntryEditor.js
+2018-06-02 11:40:05,146 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ko\FeedEntryEditor.js
+2018-06-02 11:40:05,147 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\mk\FeedEntryEditor.js
+2018-06-02 11:40:05,147 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\nb\FeedEntryEditor.js
+2018-06-02 11:40:05,148 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\nl\FeedEntryEditor.js
+2018-06-02 11:40:05,148 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\pl\FeedEntryEditor.js
+2018-06-02 11:40:05,148 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\pt\FeedEntryEditor.js
+2018-06-02 11:40:05,149 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\pt-pt\FeedEntryEditor.js
+2018-06-02 11:40:05,152 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ro\FeedEntryEditor.js
+2018-06-02 11:40:05,152 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\ru\FeedEntryEditor.js
+2018-06-02 11:40:05,153 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sk\FeedEntryEditor.js
+2018-06-02 11:40:05,153 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sl\FeedEntryEditor.js
+2018-06-02 11:40:05,153 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sr\FeedEntryEditor.js
+2018-06-02 11:40:05,154 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\sv\FeedEntryEditor.js
+2018-06-02 11:40:05,154 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\th\FeedEntryEditor.js
+2018-06-02 11:40:05,155 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\tr\FeedEntryEditor.js
+2018-06-02 11:40:05,155 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\uk\FeedEntryEditor.js
+2018-06-02 11:40:05,155 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\zh\FeedEntryEditor.js
+2018-06-02 11:40:05,156 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\dojo-release-1.13.0\dojox\atom\widget\nls\zh-tw\FeedEntryEditor.js
+2018-06-02 11:40:05,512 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: Google.Apis.Auth.OAuth2.Responses.TokenResponse-evazez@logsys.com.mx no se encuentra 
+2018-06-02 11:40:06,153 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: Google.Apis.Auth.OAuth2.Responses.TokenResponse-evazquez@logsys.com.mx no se encuentra 
+2018-06-02 11:40:06,570 [1] INFO reemplazoDeVersionesDocumentos.Program - El archivo: Manual de Integracion WebServices Version 5.pdf no se encuentra 
+2018-06-02 11:40:06,964 [1] INFO reemplazoDeVersionesDocumentos.Program - 
+El archivo: C:\Users\Eduardo\Documents\Page1.html se duplica en : 
+2018-06-02 11:40:06,964 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\aaa\b\Page1.html
+2018-06-02 11:40:06,965 [1] INFO reemplazoDeVersionesDocumentos.Program - C:\Users\Eduardo\Documents\DojoToolkit\webPages\Page1.html
